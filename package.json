@@ -1,0 +1,32 @@
+{
+  "name": "hdplayer",
+  "version": "1.0.0",
+  "description": "a live player for h\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[hls/flv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liungang/hdplayer.git"
+  },
+  "author": "Liungang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liungang/hdplayer/issues"
+  },
+  "homepage": "https://github.com/Liungang/hdplayer#readme",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "fancy-log": "^2.0.0",
+    "gulp": "^4.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "tsify": "^5.0.4",
+    "typescript": "^5.3.3",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^4.0.0"
+  }
+}
